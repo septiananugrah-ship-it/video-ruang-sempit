@@ -1,0 +1,170 @@
+hook-00	Sebatang wortel berwarna jingga.
+hook-01	Layar televisi yang warnanya sangat murni.
+hook-02	Dan sebuah flash disk yang menyimpan data bertahun-tahun tanpa listrik.
+hook-03	Sekilas, ketiganya tidak punya hubungan apa pun.
+hook-04	Namun di dalam ketiganya, ada elektron yang dikurung di ruang yang sangat sempit.
+hook-05	Begitu ruangnya menyempit sampai seukuran molekul, elektron berhenti bergerak seperti bola biasa.
+hook-06	Energinya hanya boleh bernilai tertentu, warnanya bisa diatur dari ukuran ruang, dan ia bahkan bisa menembus dinding.
+hook-07	Semua itu berawal dari satu pertanyaan sederhana:
+hook-08	bagaimana sebuah partikel bergerak lurus, jika aturannya ditulis oleh mekanika kuantum?
+roadmap-00	Video ini membahas kimia kuantum gerak translasi dalam tiga bagian.
+roadmap-01	Bagian pertama, prinsip dan teori dasarnya: dari partikel bebas sampai partikel dalam kotak satu, dua, dan tiga dimensi.
+roadmap-02	Bagian kedua, implementasinya dalam kimia: warna molekul berikatan rangkap, pewarna, dan penerowongan dalam molekul.
+roadmap-03	Dan bagian ketiga, penerapannya di dunia industri: titik kuantum di layar, lampu el-e-de biru, dan memori flash.
+free-00	Gerak translasi berarti gerak berpindah tempat, lurus dari satu titik ke titik lain.
+free-01	Mulai dari kasus paling bebas: sebuah elektron di garis lurus tanpa gaya apa pun, potensialnya nol di mana-mana.
+free-02	Menurut de Brogli, partikel yang bergerak membawa gelombang, dengan panjang gelombang ha dibagi momentum.
+free-03	Persamaan Syrodinger untuk partikel bebas dipenuhi oleh gelombang bidang yang merambat, e pangkat i ka eks.
+free-04	Bilangan gelombang ka menentukan momentumnya, dan energinya adalah ha bar kuadrat ka kuadrat dibagi dua em.
+free-05	Karena tidak ada dinding, ka boleh bernilai berapa saja.
+free-06	Gelombang bidang ini juga tersebar merata ke seluruh ruang, jadi peluang menemukan partikelnya sama di mana pun.
+free-07	Artinya energi partikel bebas kontinu, seperti jalan landai tanpa anak tangga.
+free-08	Kuantisasi baru muncul ketika partikel itu kita kurung.
+walls-00	Sekarang letakkan dua dinding, di eks sama dengan nol dan di eks sama dengan el.
+walls-01	Di dalam kotak potensialnya nol, di luar kotak potensialnya tak berhingga.
+walls-02	Partikel tidak mungkin berada di luar, jadi fungsi gelombangnya harus nol tepat di kedua dinding.
+walls-03	Ini persis seperti senar gitar yang diikat di kedua ujungnya.
+walls-04	Gelombang yang merambat ke kanan memantul di dinding, lalu bertemu gelombang yang merambat ke kiri, dan keduanya membentuk gelombang berdiri.
+walls-05	Senar hanya bisa bergetar dengan pola tertentu: setengah gelombang, satu gelombang, satu setengah gelombang, dan seterusnya.
+walls-06	Syaratnya, panjang kotak harus memuat bilangan bulat kali setengah panjang gelombang.
+walls-07	Fungsi gelombang yang lolos berbentuk sinus: akar dua per el, dikali sinus en pi eks per el.
+walls-08	Bilangan en inilah bilangan kuantum translasi: satu, dua, tiga, dan seterusnya.
+walls-09	Dinding tidak hanya membatasi tempat, tetapi juga memilih gelombang mana yang boleh ada.
+ladder-00	Dari panjang gelombang yang diizinkan, kita dapat momentumnya, lalu energinya.
+ladder-01	Hasilnya: energi sama dengan en kuadrat, dikali ha kuadrat, dibagi delapan em el kuadrat.
+ladder-02	Energi kini bertingkat seperti anak tangga, dan jarak antartingkat makin lebar ke atas: satu, empat, sembilan, enam belas.
+ladder-03	Perhatikan, en tidak boleh nol.
+ladder-04	Jika en nol, fungsi gelombangnya nol di mana-mana, artinya tidak ada partikel sama sekali.
+ladder-05	Jadi partikel dalam kotak tidak pernah diam: energi terendahnya selalu lebih besar dari nol.
+ladder-06	Inilah energi titik nol.
+ladder-07	Untuk elektron dalam kotak selebar satu nanometer, energi terendah itu sekitar nol koma tiga delapan elektronvolt.
+ladder-08	Untuk kelereng satu gram dalam kotak satu sentimeter, jarak antartingkatnya begitu kecil sehingga terlihat kontinu.
+ladder-09	Massa yang kecil dan ruang yang sempit, dua syarat agar sifat kuantum terlihat.
+where-00	Fungsi gelombang sendiri tidak bisa diamati, tetapi kuadratnya memberi rapat peluang.
+where-01	Pada tingkat en sama dengan satu, peluang terbesar ada di tengah kotak.
+where-02	Pada tingkat dua, tepat di tengah justru ada simpul: titik yang peluangnya nol.
+where-03	Setiap tingkat en memiliki en dikurangi satu simpul di dalam kotak.
+where-04	Mari hitung peluang menemukan partikel di sepertiga bagian tengah kotak.
+where-05	Untuk en satu, peluangnya sekitar enam puluh satu persen.
+where-06	Untuk en dua, hanya sekitar dua puluh persen.
+where-07	Partikel klasik yang memantul bolak-balik akan memberi tepat sepertiga.
+where-08	Makin besar en, puncak-puncaknya makin rapat, dan rata-ratanya mendekati gambaran klasik yang merata.
+where-09	Inilah prinsip korespondensi: dunia kuantum menyatu dengan dunia klasik pada bilangan kuantum besar.
+squeeze-00	Sekarang lakukan percobaan pikiran: kotaknya kita sempitkan perlahan.
+squeeze-01	Karena energi sebanding dengan satu per el kuadrat, setiap tingkat naik dengan cepat.
+squeeze-02	Kotak dibuat setengahnya, energi menjadi empat kali lipat.
+squeeze-03	Prinsip ketidakpastian Haisenberg memberi alasan yang lebih dalam.
+squeeze-04	Makin sempit ruangnya, makin pasti posisinya, sehingga momentumnya makin tidak pasti.
+squeeze-05	Momentum yang tersebar lebar berarti energi kinetik yang besar.
+squeeze-06	Hasil kali ketidakpastian posisi dan momentum tidak boleh lebih kecil dari ha bar per dua.
+squeeze-07	Pada keadaan dasar kotak, hasil kali itu sekitar satu koma satu kali ha bar per dua, sedikit di atas batas minimum.
+squeeze-08	Partikel yang dikurung di ruang sempit menjadi gelisah, dan kegelisahan itu adalah energi pengurungan.
+squeeze-09	Ide inilah yang nanti mengatur warna molekul dan warna titik kuantum.
+light-00	Partikel di tingkat bawah bisa naik ke tingkat atas dengan menyerap satu foton.
+light-01	Energi foton harus sama persis dengan selisih kedua tingkat.
+light-02	Panjang gelombang cahayanya adalah ha ce dibagi selisih energi itu.
+light-03	Untuk elektron dalam kotak satu nanometer, lompatan dari satu ke dua butuh sekitar satu koma satu tiga elektronvolt.
+light-04	Itu setara cahaya inframerah dekat, sekitar seribu seratus nanometer.
+light-05	Tetapi tidak semua lompatan diizinkan.
+light-06	Dalam kotak simetris, cahaya hanya bisa menghubungkan dua tingkat jika jumlah bilangan kuantumnya ganjil.
+light-07	Satu ke dua diizinkan, satu ke tiga terlarang.
+light-08	Alasannya simetri: fungsi gelombang en ganjil simetris terhadap tengah kotak, sedangkan en genap antisimetris, dan cahaya hanya menghubungkan simetris dengan antisimetris.
+light-09	Inilah contoh pertama aturan seleksi.
+boxes-00	Bagaimana jika partikel bergerak di bidang datar, di dalam kotak persegi panjang?
+boxes-01	Fungsi gelombangnya bisa dipisah menjadi hasil kali bagian eks dan bagian y.
+boxes-02	Energinya menjadi jumlah dua suku, masing-masing dengan bilangan kuantumnya sendiri.
+boxes-03	Pada kotak persegi, keadaan satu dua dan dua satu punya energi yang sama, walaupun polanya berbeda.
+boxes-04	Keadaan yang berbeda tetapi berenergi sama disebut terdegenerasi.
+boxes-05	Dalam kubus, satu satu dua, satu dua satu, dan dua satu satu bahkan berenergi sama, tiga sekaligus.
+boxes-06	Energi kotak tiga dimensi adalah jumlah tiga suku: en eks kuadrat per el eks kuadrat, ditambah suku ye dan suku zet.
+boxes-07	Degenerasi ini lahir dari simetri.
+boxes-08	Begitu satu sisi diregangkan, simetrinya rusak dan tingkat-tingkat itu berpisah.
+polyene-00	Di mana ada kotak satu dimensi di dunia kimia?
+polyene-01	Jawabannya ada pada molekul dengan ikatan rangkap dan tunggal yang berselang-seling, yang disebut molekul terkonjugasi.
+polyene-02	Elektron pi di molekul ini tidak terikat pada satu ikatan, melainkan bebas bergerak sepanjang rantai.
+polyene-03	Rantai itu bisa kita anggap kotak, dengan panjang kira-kira sepanjang rantai karbon.
+polyene-04	Ambil butadiena, dengan empat elektron pi dan panjang kotak sekitar nol koma lima delapan nanometer.
+polyene-05	Menurut prinsip Pauli, setiap tingkat diisi dua elektron, jadi tingkat satu dan dua penuh.
+polyene-06	Orbital terisi tertinggi disebut HOMO, dan orbital kosong terendah disebut LUMO.
+polyene-07	Lompatan dari HOMO ke LUMO menurut model ini butuh cahaya sekitar dua ratus dua puluh nanometer.
+polyene-08	Hasil pengukuran butadiena sekitar dua ratus tujuh belas nanometer, sangat dekat.
+polyene-09	Untuk rantai yang lebih panjang, model ini meleset lebih jauh, karena panjang ikatan rangkap dan tunggal tidak sama.
+polyene-10	Tetapi tren utamanya tetap benar: makin panjang rantai, makin panjang gelombang yang diserap.
+carrot-00	Butadiena dan heksatriena menyerap ultraviolet, jadi mata kita melihatnya tidak berwarna.
+carrot-01	Sekarang perpanjang rantainya hingga sebelas ikatan rangkap terkonjugasi.
+carrot-02	Inilah beta karoten, pigmen pada wortel.
+carrot-03	Kotaknya kini jauh lebih panjang, celah HOMO dan LUMO menyempit, dan serapannya bergeser masuk ke cahaya tampak.
+carrot-04	Beta karoten menyerap cahaya biru hingga hijau kebiruan, dengan puncak sekitar empat ratus lima puluh nanometer.
+carrot-05	Warna yang tersisa dan dipantulkan ke mata kita adalah jingga, warna komplementer dari biru.
+carrot-06	Molekul ini memiliki dua puluh dua elektron pi, sehingga orbital terisi tertingginya berada jauh di atas tangga energi.
+carrot-07	Jadi warna wortel adalah akibat langsung dari panjang kotak tempat elektron pi bergerak.
+carrot-08	Prinsip yang sama berlaku untuk likopen pada tomat dan banyak pigmen alami lainnya.
+cyanine-00	Ada keluarga molekul yang mengikuti model kotak jauh lebih baik: pewarna sianin.
+cyanine-01	Rantainya diapit dua atom nitrogen, dan muatannya berpindah-pindah di antara keduanya melalui resonansi.
+cyanine-02	Akibatnya, semua ikatan di rantai hampir sama panjang, sehingga elektron pi benar-benar merasakan lantai yang rata.
+cyanine-03	Model elektron bebas untuk pewarna ini dikembangkan oleh Hans Kun.
+cyanine-04	Makin panjang rantai, makin banyak elektron pi, tetapi kotaknya memanjang lebih cepat, sehingga celahnya mengecil.
+cyanine-05	Coba lihat satu deret tiasianin: setiap kali rantai bertambah satu gugus ce ha sama dengan ce ha, serapannya bergeser sekitar seratus nanometer.
+cyanine-06	Dari sekitar empat ratus dua puluh, ke lima ratus lima puluh, enam ratus lima puluh, sampai tujuh ratus enam puluh nanometer.
+cyanine-07	Warna larutannya pun berubah: kuning, magenta, lalu biru, dan anggota terakhir menyerap di inframerah dekat.
+cyanine-08	Pewarna sianin kini dipakai sebagai penanda fluoresens di laboratorium biologi, misalnya Si-wai tiga dan Si-wai lima untuk melabel de-en-a.
+finite-00	Dinding tak berhingga hanyalah idealisasi.
+finite-01	Di molekul dan material nyata, dindingnya punya tinggi tertentu, misalnya ve nol.
+finite-02	Di dalam sumur, fungsi gelombang tetap berosilasi.
+finite-03	Fungsi gelombang dan kemiringannya harus menyambung mulus di setiap batas dinding.
+finite-04	Tetapi di dalam dinding, ia tidak langsung nol, melainkan meluruh secara eksponensial.
+finite-05	Ada ekor fungsi gelombang yang menyusup ke daerah yang secara klasik terlarang.
+finite-06	Karena gelombangnya punya ruang sedikit lebih lebar, energinya lebih rendah daripada di kotak tak berhingga.
+finite-07	Jumlah tingkat terikatnya pun terbatas, ditentukan oleh lebar dan kedalaman sumur.
+finite-08	Contohnya, sumur tertentu hanya punya dua tingkat terikat, sekitar seperempat dan sembilan per sepuluh dari kedalamannya.
+finite-09	Lalu apa yang terjadi jika dindingnya tipis?
+tunnel-00	Jika penghalangnya tipis, ekor fungsi gelombang masih tersisa di sisi seberang.
+tunnel-01	Artinya ada peluang partikel muncul di balik dinding, walaupun energinya lebih rendah dari tinggi dinding.
+tunnel-02	Inilah penerowongan kuantum.
+tunnel-03	Peluangnya turun secara eksponensial terhadap tebal penghalang.
+tunnel-04	Untuk elektron berenergi satu elektronvolt dan penghalang lima elektronvolt, penghalang nol koma dua nanometer memberi peluang sekitar empat persen.
+tunnel-05	Dipertebal menjadi nol koma lima nanometer, peluangnya turun sekitar empat ratus enam puluh kali.
+tunnel-06	Massa juga berperan: partikel yang lebih berat jauh lebih sulit menerowong.
+tunnel-07	Itulah sebabnya penerowongan paling menonjol untuk elektron, lalu untuk atom paling ringan, hidrogen.
+tunnel-08	Contoh kimianya adalah amonia, yang bisa membalik bentuk payungnya dengan menerowong melewati penghalang energi.
+tunnel-09	Pembalikan ini terjadi sekitar dua puluh empat miliar kali per detik.
+tunnel-10	Jika hidrogen diganti deuterium yang dua kali lebih berat, pembalikannya sekitar lima belas kali lebih lambat.
+qdots-00	Sekarang ganti molekul dengan kristal semikonduktor yang sangat kecil, hanya beberapa nanometer.
+qdots-01	Inilah titik kuantum: kotak tiga dimensi buatan, tempat elektron dan hole dikurung.
+qdots-02	Energi cahaya yang dipancarkan sama dengan celah pita bahan, ditambah energi pengurungan yang sebanding dengan satu per el kuadrat.
+qdots-03	Kadmium selenida dalam bentuk bongkahan memancarkan merah tua di tepi inframerah, sekitar tujuh ratus sepuluh nanometer.
+qdots-04	Sebagai titik berukuran sekitar enam nanometer, ia berpendar merah.
+qdots-05	Dibuat sekitar dua nanometer, pendarannya bergeser ke biru kehijauan.
+qdots-06	Bahannya sama, hanya ukurannya yang berbeda.
+qdots-07	Ukuran titik diatur saat sintesis: makin lama kristal dibiarkan tumbuh dalam pelarut panas, makin besar ukurannya dan makin merah pendarannya.
+qdots-08	Penemuan dan sintesis titik kuantum mendapat Hadiah Nobel Kimia tahun dua ribu dua puluh tiga.
+qdots-09	Di televisi kiu-led, lapisan titik kuantum mengubah cahaya biru menjadi hijau dan merah yang sangat murni.
+qdots-10	Titik kuantum juga dipakai sebagai penanda sel dalam pencitraan biologi, karena terang dan tidak mudah pudar.
+led-00	Lampu el-e-de putih di rumahmu menyimpan sumur potensial berhingga yang sangat tipis.
+led-01	Di dalamnya, lapisan indium galium nitrida setebal beberapa nanometer diapit oleh galium nitrida.
+led-02	Lapisan tipis itu adalah sumur kuantum: elektron dan hole terkurung di arah tebalnya.
+led-03	Di sana keduanya bertemu dan bergabung kembali, lalu memancarkan cahaya biru.
+led-04	Warnanya diatur oleh komposisi indium dan tebal sumur.
+led-05	Makin tipis sumurnya, makin besar energi pengurungan, dan makin pendek panjang gelombang cahayanya.
+led-06	el-e-de biru yang efisien mendapat Hadiah Nobel Fisika tahun dua ribu empat belas.
+led-07	Cahaya biru itu lalu sebagian diubah oleh fosfor kuning, sehingga gabungannya tampak putih.
+led-08	Prinsip sumur kuantum yang sama juga dipakai pada laser semikonduktor untuk serat optik.
+flash-00	Terakhir, flash disk dan kartu memori.
+flash-01	Setiap sel memorinya adalah transistor dengan satu gerbang mengambang, yang terbungkus lapisan oksida tipis.
+flash-02	Untuk menulis data, tegangan tinggi diberikan sehingga penghalang oksida menjadi miring dan lebih tipis bagi elektron.
+flash-03	Elektron lalu menerowong masuk ke gerbang mengambang dan terperangkap di sana.
+flash-04	Proses ini disebut penerowongan Faoler Nordhaim.
+flash-05	Muatan yang terperangkap menggeser tegangan kerja transistor, dan itulah yang dibaca sebagai bit nol atau satu.
+flash-06	Tanpa tegangan tinggi, penghalangnya kembali tebal dan peluang menerowong menjadi sangat kecil.
+flash-07	Karena itulah data bisa bertahan bertahun-tahun tanpa listrik.
+flash-08	Untuk menghapus, tegangan dibalik sehingga elektron menerowong keluar lagi.
+flash-09	Sifat yang sama menjadi batas teknologi ini: oksida yang terlalu tipis membuat muatan bocor keluar.
+recap-00	Mari kita rangkum.
+recap-01	Partikel bebas punya energi kontinu, tetapi dinding memaksa gelombangnya berdiri, sehingga energinya bertingkat en kuadrat.
+recap-02	Makin sempit ruangnya, makin besar energinya, dan energi terendahnya tidak pernah nol.
+recap-03	Elektron pi di rantai terkonjugasi mengikuti aturan yang sama, sehingga panjang rantai menentukan warna.
+recap-04	Dinding yang berhingga membuka jalan bagi penerowongan, yang terlihat pada amonia.
+recap-05	Di industri, ide ini menjadi titik kuantum di layar, sumur kuantum di el-e-de, dan penerowongan di memori flash.
+recap-06	Jadi, saat kamu melihat wortel, menyalakan lampu, atau menyimpan berkas,
+recap-07	ingatlah bahwa ada elektron yang sedang dikurung di ruang sempit.
+recap-08	Dan dari ruang sempit itulah, mekanika kuantum menuliskan warna dan ingatan dunia kita.
