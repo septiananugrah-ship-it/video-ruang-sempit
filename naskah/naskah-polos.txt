@@ -10,14 +10,14 @@ Energinya hanya boleh bernilai tertentu, warnanya bisa diatur dari ukuran ruang,
 Semua itu berawal dari satu pertanyaan sederhana:
 bagaimana sebuah partikel bergerak lurus, jika aturannya ditulis oleh mekanika kuantum?
 
-[00:59] Peta perjalanan
+[01:01] Peta perjalanan
 
 Video ini membahas kimia kuantum gerak translasi dalam tiga bagian.
 Bagian pertama, prinsip dan teori dasarnya: dari partikel bebas sampai partikel dalam kotak satu, dua, dan tiga dimensi.
 Bagian kedua, implementasinya dalam kimia: warna molekul berikatan rangkap, pewarna, dan penerowongan dalam molekul.
 Dan bagian ketiga, penerapannya di dunia industri: titik kuantum di layar, lampu LED biru, dan memori flash.
 
-[01:34] Bab 01 — Partikel bebas
+[01:36] Bab 01 — Partikel bebas
 
 Gerak translasi berarti gerak berpindah tempat, lurus dari satu titik ke titik lain.
 Mulai dari kasus paling bebas: sebuah elektron di garis lurus tanpa gaya apa pun, potensialnya nol di mana-mana.
@@ -29,7 +29,7 @@ Gelombang bidang ini juga tersebar merata ke seluruh ruang, jadi peluang menemuk
 Artinya energi partikel bebas kontinu, seperti jalan landai tanpa anak tangga.
 Kuantisasi baru muncul ketika partikel itu kita kurung.
 
-[02:39] Bab 02 — Dinding yang tak tertembus
+[02:42] Bab 02 — Dinding yang tak tertembus
 
 Sekarang letakkan dua dinding, di x sama dengan nol dan di x sama dengan L.
 Di dalam kotak potensialnya nol, di luar kotak potensialnya tak berhingga.
@@ -42,7 +42,7 @@ Fungsi gelombang yang lolos berbentuk sinus: akar dua per L, dikali sinus n pi x
 Bilangan n inilah bilangan kuantum translasi: satu, dua, tiga, dan seterusnya.
 Dinding tidak hanya membatasi tempat, tetapi juga memilih gelombang mana yang boleh ada.
 
-[03:49] Bab 03 — Tangga energi n kuadrat
+[03:55] Bab 03 — Tangga energi n kuadrat
 
 Dari panjang gelombang yang diizinkan, kita dapat momentumnya, lalu energinya.
 Hasilnya: energi sama dengan n kuadrat, dikali h kuadrat, dibagi delapan m L kuadrat.
@@ -55,7 +55,7 @@ Untuk elektron dalam kotak selebar satu nanometer, energi terendah itu sekitar n
 Untuk kelereng satu gram dalam kotak satu sentimeter, jarak antartingkatnya begitu kecil sehingga terlihat kontinu.
 Massa yang kecil dan ruang yang sempit, dua syarat agar sifat kuantum terlihat.
 
-[04:56] Bab 04 — Di mana partikelnya?
+[05:08] Bab 04 — Di mana partikelnya?
 
 Fungsi gelombang sendiri tidak bisa diamati, tetapi kuadratnya memberi rapat peluang.
 Pada tingkat n sama dengan satu, peluang terbesar ada di tengah kotak.
@@ -68,7 +68,7 @@ Partikel klasik yang memantul bolak-balik akan memberi tepat sepertiga.
 Makin besar n, puncak-puncaknya makin rapat, dan rata-ratanya mendekati gambaran klasik yang merata.
 Inilah prinsip korespondensi: dunia kuantum menyatu dengan dunia klasik pada bilangan kuantum besar.
 
-[05:56] Bab 05 — Makin sempit, makin gelisah
+[06:09] Bab 05 — Makin sempit, makin gelisah
 
 Sekarang lakukan percobaan pikiran: kotaknya kita sempitkan perlahan.
 Karena energi sebanding dengan satu per L kuadrat, setiap tingkat naik dengan cepat.
@@ -81,7 +81,7 @@ Pada keadaan dasar kotak, hasil kali itu sekitar satu koma satu kali h bar per d
 Partikel yang dikurung di ruang sempit menjadi gelisah, dan kegelisahan itu adalah energi pengurungan.
 Ide inilah yang nanti mengatur warna molekul dan warna titik kuantum.
 
-[07:00] Bab 06 — Melompat dengan cahaya
+[07:15] Bab 06 — Melompat dengan cahaya
 
 Partikel di tingkat bawah bisa naik ke tingkat atas dengan menyerap satu foton.
 Energi foton harus sama persis dengan selisih kedua tingkat.
@@ -94,7 +94,7 @@ Satu ke dua diizinkan, satu ke tiga terlarang.
 Alasannya simetri: fungsi gelombang n ganjil simetris terhadap tengah kotak, sedangkan n genap antisimetris, dan cahaya hanya menghubungkan simetris dengan antisimetris.
 Inilah contoh pertama aturan seleksi.
 
-[08:03] Bab 07 — Kotak dua dan tiga dimensi
+[08:20] Bab 07 — Kotak dua dan tiga dimensi
 
 Bagaimana jika partikel bergerak di bidang datar, di dalam kotak persegi panjang?
 Fungsi gelombangnya bisa dipisah menjadi hasil kali bagian x dan bagian y.
@@ -106,7 +106,7 @@ Energi kotak tiga dimensi adalah jumlah tiga suku: n x kuadrat per L x kuadrat, 
 Degenerasi ini lahir dari simetri.
 Begitu satu sisi diregangkan, simetrinya rusak dan tingkat-tingkat itu berpisah.
 
-[09:04] Bab 08 — Elektron pi dalam rantai
+[09:25] Bab 08 — Elektron pi dalam rantai
 
 Di mana ada kotak satu dimensi di dunia kimia?
 Jawabannya ada pada molekul dengan ikatan rangkap dan tunggal yang berselang-seling, yang disebut molekul terkonjugasi.
@@ -120,7 +120,7 @@ Hasil pengukuran butadiena sekitar dua ratus tujuh belas nanometer, sangat dekat
 Untuk rantai yang lebih panjang, model ini meleset lebih jauh, karena panjang ikatan rangkap dan tunggal tidak sama.
 Tetapi tren utamanya tetap benar: makin panjang rantai, makin panjang gelombang yang diserap.
 
-[10:23] Bab 09 — Mengapa wortel jingga
+[10:44] Bab 09 — Mengapa wortel jingga
 
 Butadiena dan heksatriena menyerap ultraviolet, jadi mata kita melihatnya tidak berwarna.
 Sekarang perpanjang rantainya hingga sebelas ikatan rangkap terkonjugasi.
@@ -132,7 +132,7 @@ Molekul ini memiliki dua puluh dua elektron pi, sehingga orbital terisi tertingg
 Jadi warna wortel adalah akibat langsung dari panjang kotak tempat elektron pi bergerak.
 Prinsip yang sama berlaku untuk likopen pada tomat dan banyak pigmen alami lainnya.
 
-[11:26] Bab 10 — Pewarna sianin: kotak yang hampir sempurna
+[11:48] Bab 10 — Pewarna sianin: kotak yang hampir sempurna
 
 Ada keluarga molekul yang mengikuti model kotak jauh lebih baik: pewarna sianin.
 Rantainya diapit dua atom nitrogen, dan muatannya berpindah-pindah di antara keduanya melalui resonansi.
@@ -144,7 +144,7 @@ Dari sekitar empat ratus dua puluh, ke lima ratus lima puluh, enam ratus lima pu
 Warna larutannya pun berubah: kuning, magenta, lalu biru, dan anggota terakhir menyerap di inframerah dekat.
 Pewarna sianin kini dipakai sebagai penanda fluoresens di laboratorium biologi, misalnya Cy3 dan Cy5 untuk melabel DNA.
 
-[12:43] Bab 11 — Dinding yang bisa ditembus
+[13:06] Bab 11 — Dinding yang bisa ditembus
 
 Dinding tak berhingga hanyalah idealisasi.
 Di molekul dan material nyata, dindingnya punya tinggi tertentu, misalnya V nol.
@@ -157,7 +157,7 @@ Jumlah tingkat terikatnya pun terbatas, ditentukan oleh lebar dan kedalaman sumu
 Contohnya, sumur tertentu hanya punya dua tingkat terikat, sekitar seperempat dan sembilan per sepuluh dari kedalamannya.
 Lalu apa yang terjadi jika dindingnya tipis?
 
-[13:43] Bab 12 — Menembus dinding
+[14:08] Bab 12 — Menembus dinding
 
 Jika penghalangnya tipis, ekor fungsi gelombang masih tersisa di sisi seberang.
 Artinya ada peluang partikel muncul di balik dinding, walaupun energinya lebih rendah dari tinggi dinding.
@@ -171,7 +171,7 @@ Contoh kimianya adalah amonia, yang bisa membalik bentuk payungnya dengan menero
 Pembalikan ini terjadi sekitar dua puluh empat miliar kali per detik.
 Jika hidrogen diganti deuterium yang dua kali lebih berat, pembalikannya sekitar lima belas kali lebih lambat.
 
-[14:59] Bab 13 — Titik kuantum: warna dari ukuran
+[15:24] Bab 13 — Titik kuantum: warna dari ukuran
 
 Sekarang ganti molekul dengan kristal semikonduktor yang sangat kecil, hanya beberapa nanometer.
 Inilah titik kuantum: kotak tiga dimensi buatan, tempat elektron dan hole dikurung.
@@ -185,7 +185,7 @@ Penemuan dan sintesis titik kuantum mendapat Hadiah Nobel Kimia tahun dua ribu d
 Di televisi QLED, lapisan titik kuantum mengubah cahaya biru menjadi hijau dan merah yang sangat murni.
 Titik kuantum juga dipakai sebagai penanda sel dalam pencitraan biologi, karena terang dan tidak mudah pudar.
 
-[16:23] Bab 14 — Sumur kuantum di LED biru
+[16:47] Bab 14 — Sumur kuantum di LED biru
 
 Lampu LED putih di rumahmu menyimpan sumur potensial berhingga yang sangat tipis.
 Di dalamnya, lapisan indium galium nitrida setebal beberapa nanometer diapit oleh galium nitrida.
@@ -197,7 +197,7 @@ LED biru yang efisien mendapat Hadiah Nobel Fisika tahun dua ribu empat belas.
 Cahaya biru itu lalu sebagian diubah oleh fosfor kuning, sehingga gabungannya tampak putih.
 Prinsip sumur kuantum yang sama juga dipakai pada laser semikonduktor untuk serat optik.
 
-[17:23] Bab 15 — Elektron yang menyeberang di flash disk
+[17:47] Bab 15 — Elektron yang menyeberang di flash disk
 
 Terakhir, flash disk dan kartu memori.
 Setiap sel memorinya adalah transistor dengan satu gerbang mengambang, yang terbungkus lapisan oksida tipis.
@@ -210,7 +210,7 @@ Karena itulah data bisa bertahan bertahun-tahun tanpa listrik.
 Untuk menghapus, tegangan dibalik sehingga elektron menerowong keluar lagi.
 Sifat yang sama menjadi batas teknologi ini: oksida yang terlalu tipis membuat muatan bocor keluar.
 
-[18:27] Bab 16 — Kembali ke semesta
+[18:53] Bab 16 — Kembali ke semesta
 
 Mari kita rangkum.
 Partikel bebas punya energi kontinu, tetapi dinding memaksa gelombangnya berdiri, sehingga energinya bertingkat n kuadrat.
